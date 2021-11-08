@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/PRANIT/AndroidStudioProjects/FitnessWizard/app/src/main/res/layout/activity_diet.xml" value="0.25" />
+        <entry key="..\:/Users/PRANIT/AndroidStudioProjects/FitnessWizard/app/src/main/res/layout/activity_exercise.xml" value="0.25" />
         <entry key="..\:/Users/PRANIT/AndroidStudioProjects/FitnessWizard/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/PRANIT/AndroidStudioProjects/FitnessWizard/app/src/main/res/layout/activity_reports.xml" value="0.25" />
       </map>
     </option>
   </component>

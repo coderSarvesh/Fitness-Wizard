@@ -113,6 +113,7 @@
 
 
     <androidx.cardview.widget.CardView
+        android:id="@+id/exerciseView"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="20dp"
@@ -148,7 +149,8 @@
 
 
     <androidx.cardview.widget.CardView
-        android:id="@+id/cardView2"
+
+        android:id="@+id/dietView"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="10dp"
