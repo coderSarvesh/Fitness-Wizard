@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FitnessWizard">
         <activity
+            android:name=".DietActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ExerciseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ReportsActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
